@@ -1,7 +1,6 @@
 
 # Results
 
-
 ## Action 1
 <figure class="large">
     <div class="myvideo">
