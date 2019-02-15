@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 ## Results
 <figure class="large">
     <div class="myvideo">
