@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: Results - 3D Human Pose Estimation
 description: Real-time 3D Human Pose Estimation with a single RGB-camera for Screen-based Augmented-Reality
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tobiascz.github.io/Results3DHumanPoseEstimation/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/tobiascz/Results3DHumanPoseEstimation/tree/gh-pages" # the base hostname & protocol for your site, e.g. http://example.com
