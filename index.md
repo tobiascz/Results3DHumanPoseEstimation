@@ -38,23 +38,6 @@
 <figcaption>Participant 4 -  Action 1</figcaption>
 </figure>
 
-<figure class="large">
-    <div class="myvideo">
-       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-           <source src="videos/P5A1.mp4" type="video/mp4" />
-       </video>
-    </div>
-<figcaption>Participant 5 -  Action 1</figcaption>
-</figure>
-
-<figure class="large">
-    <div class="myvideo">
-       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-           <source src="videos/P6A1.mp4" type="video/mp4" />
-       </video>
-    </div>
-<figcaption>Participant 6 -  Action 1</figcaption>
-</figure>
 
 
 
