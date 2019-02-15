@@ -1,5 +1,13 @@
 @import "{{ site.theme }}";
 ## Results
+
+<figure>
+	<img src="/images/example.png " alt="Example" width="200"/> 
+	<figcaption>Example</figcaption>
+</figure>
+
+
+
 <figure class="large">
     <div class="myvideo">
        <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
@@ -8,3 +16,8 @@
     </div>
 <figcaption>A nice movie format</figcaption>
 </figure>
+
+
+
+
+
