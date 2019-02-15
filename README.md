@@ -7,6 +7,9 @@ In this repository you can download the thesis [Real-time 3D Human Pose Estimati
 
 The videos of the result section can be found [here](https://tobiascz.github.io/Results3DHumanPoseEstimation/)
 
+![participant 3 action 3](figures/Gif_P3A3.gif)
+
+
 
 
 
