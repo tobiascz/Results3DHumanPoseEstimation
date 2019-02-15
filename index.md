@@ -7,10 +7,14 @@
 </figure>
 
 <figure>
-	<img src="{{ site.baseurl }}/images/example.png " alt="Example 2" width="200"/> 
+	<img src="images/example.png " alt="Example 2" width="200"/> 
 	<figcaption>Example 2</figcaption>
 </figure>
 
+<figure>
+	<img src="/images/example.png " alt="Example 2" width="200"/> 
+	<figcaption>Example 2</figcaption>
+</figure>
 
 
 
