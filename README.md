@@ -6,7 +6,7 @@ In this repository you can download the thesis
 
 # Videos
 
-The videos of the result section can be found [here](https://tobiascz.github.io/Results3DHumanPoseEstimation/)
+The videos of the result section created with [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) can be found [here](https://tobiascz.github.io/Results3DHumanPoseEstimation/)
 
 ![participant 3 action 3](figures/Gif_P3A3.gif)
 
