@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/assets/css/stylce.scss">
-
 # Results
 
 ## Action 1
