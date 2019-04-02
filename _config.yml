@@ -5,7 +5,7 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
 title: Results - 3D Human Pose Estimation
 description: Real-time 3D Human Pose Estimation with a single RGB-camera for Screen-based Augmented-Reality
 baseurl: "" # the subpath of your site, e.g. /blog
