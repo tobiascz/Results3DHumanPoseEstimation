@@ -10,3 +10,5 @@ title: Results - 3D Human Pose Estimation
 description: Real-time 3D Human Pose Estimation with a single RGB-camera for Screen-based Augmented-Reality
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/tobiascz/Results3DHumanPoseEstimation/tree/master" # the base hostname & protocol for your site, e.g. http://example.com
+github:
+  is_project_page: false
