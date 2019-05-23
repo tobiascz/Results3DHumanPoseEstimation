@@ -6,6 +6,7 @@ future: true
 jailed: false
 theme: jekyll-theme-slate
 github:
+  is_user_page: false
   is_project_page: false
 title: Results - 3D Human Pose Estimation
 description: Real-time 3D Human Pose Estimation with a single RGB-camera for Screen-based Augmented-Reality
