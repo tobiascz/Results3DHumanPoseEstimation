@@ -1,8 +1,3 @@
----
-title: This is my title
-layout: post
----
-
 # Results
 
 ## Action 1
