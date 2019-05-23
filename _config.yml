@@ -1,5 +1,3 @@
-github:
-  is_project_page: false
 encoding: UTF-8
 kramdown:
   input: GFM
@@ -7,6 +5,8 @@ kramdown:
 future: true
 jailed: false
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
 title: Results - 3D Human Pose Estimation
 description: Real-time 3D Human Pose Estimation with a single RGB-camera for Screen-based Augmented-Reality
 baseurl: "" # the subpath of your site, e.g. /blog
